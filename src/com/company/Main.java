@@ -7,20 +7,19 @@ import java.awt.event.ActionListener;
 import java.lang.reflect.Array;
 
 //class Ecran extends JPanel{
-//    Ecran(){
+//fm
 //        this.setBounds(0,0,174,50);
 //        //this.setBackground(Color.red);
 //    }
 //}
 //
-//class Calculator extends JPanel {
-//
+//clasfhdn
 //
 //    JButton one = new JButton();
 //
 //    JButton two = new JButton();
 //
-//    JButton three = new JButton();
+//    JButton thrergfgxsdfghje = new JButton();
 //
 //    JButton four = new JButton();
 //
